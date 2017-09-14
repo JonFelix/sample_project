@@ -1,0 +1,31 @@
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\d4 GameEngine v1.exe
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\d4 GameEngine v1.pdb
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\MonoGame.Framework.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\MoonSharp.Interpreter.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\Newtonsoft.Json.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.DXGI.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.XInput.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.RawInput.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\MonoGame.Framework.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\MoonSharp.Interpreter.pdb
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\MoonSharp.Interpreter.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\Newtonsoft.Json.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.DXGI.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.XInput.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.RawInput.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\obj\x86\Release\d4 GameEngine v1.exe
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\obj\x86\Release\d4 GameEngine v1.pdb
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\bin\Windows\x86\Release\Icon.ico
+c:\repos\d4 GameEngine v1\d4 GameEngine v1\obj\x86\Release\d4 GameEngine v1.csprojResolveAssemblyReference.cache

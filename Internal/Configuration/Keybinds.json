@@ -1,0 +1,90 @@
+[
+	{
+		"Name": "forward",
+		"Key": "W"
+	},
+  {
+    "Name": "back",
+    "Key": "S"
+  },
+  {
+		"Name": "up",
+		"Key": "W"
+	},
+	{
+		"Name": "down",
+		"Key": "S"
+	},
+	{
+		"Name": "left",
+		"Key": "A"
+	},
+	{
+		"Name": "right",
+		"Key": "D"
+	},
+	{
+		"Name": "fire",
+		"Key": "mouse1"
+	},
+	{
+		"Name": "detonaterocket",
+		"Key": "mouse2"
+	},
+  {
+    "Name": "console",
+    "Key": "OemPipe"
+  },
+  {
+		"Name": "showinterface",
+		"Key": "F3"
+	},
+  {
+		"Name": "screenshot",
+		"Key": "F5"
+	},
+	{
+		"Name": "menuclick",
+		"Key": "mouse1"
+	},
+	{
+		"Name": "menuenter",
+		"Key": "enter"
+	},
+	{
+		"Name": "nextweapon",
+		"Key": "mwheeldown"
+	},
+	{
+		"Name": "prevweapon",
+		"Key": "mwheelup"
+	},
+	{
+		"Name": "selectpistol",
+		"Key": "D1"
+	},
+	{
+		"Name": "selectlaserrifle",
+		"Key": "D2"
+	},
+  {
+    "Name": "selectrocketlauncher",
+    "Key": "D3"
+  },
+  {
+    "Name": "selectshotgun",
+    "Key": "D4"
+  },
+  {
+    "Name": "selectgrenadelauncher",
+    "Key": "D5"
+  },
+  {
+    "Name": "interact",
+    "Key": "E"
+  },
+  {
+		"Name": "jump",
+		"Key": "Space"
+	}
+]

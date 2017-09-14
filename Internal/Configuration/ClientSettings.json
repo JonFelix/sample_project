@@ -1,0 +1,21 @@
+{
+	"Width": 0,
+	"Height": 0,
+	"Vsync": true,
+	"ShowMouse": true,
+	"EnableLog": true,
+	"LogTimestamp": true,
+	"OpenLogOnClose": true,
+	"ConsolePersistentHistory": true,
+	"ScriptRefreshRate": 1,
+	"Fullscreen": false,
+	"ConsoleEnabled": true,
+	"LogStopSpam": false,
+	"MasterVolume": 1.0,
+	"AmbienceVolume": 1.0,
+  "MusicVolume": 1.0,
+  "DumpLog": true,
+  "DecalLimit": 0,
+  "AutoRecord": true,
+  "ConsoleColorCoding": true
+}
